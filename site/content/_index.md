@@ -18,7 +18,6 @@ Development time and cost:
       text: "Using React Native helps save precious development time and costs. The hot reloading and live reloading features keep the app constantly running, save the state, and automatically reload the app with every code alteration.
 In native app development, separate development teams for Android and iOS make the app development process long and complicated. Code changes and rewrites take significant time during development, making it a costly process.
 "
-    - image: /img/illustrations-coffee-gear.svg
     heading:Maintenance and updates
       text: "With React Native apps, you just need to update and resolve bugs on one platform. Strong community support also ensures seamless updates and troubleshooting.
 Two separate native apps require separate updates, maintenance, bug fixes, and maintenance support, which makes the process complex and doubles the cost and work involved. Native apps also need to be updated constantly.
