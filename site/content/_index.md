@@ -4,7 +4,6 @@ title: "Why Use React Native Instead of Native iOS/Android for Building Your Mob
 subtitle: Wondering if you should use React Native or native iOS/Android for your mobile app development project in 2023? This article makes a quick comparison between the technologies to help you select the best one.
 image: /img/home-jumbotron.jpg
 blurb:
-    heading:Introduction
     text: "With the growing popularity of mobile applications, the need to develop apps that can be built quickly and run on multiple platforms has also increased. The introduction of the React Native UI framework has certainly given traditional native languages a run for their money when it comes to building cross-platform mobile apps.
 React Native has a current market share of 38% and is the second most popular framework for app development. Facebook, Microsoft apps, PlayStation, NFL, Puma, Pinterest, Walmart, and Tesla, among others, have already used React Native to develop stunning apps. This begs the question– should mobile developers use React Native instead of native iOS/Android? This article will try to find the answer to this question through a competitive analysis of these technologies.
 "
