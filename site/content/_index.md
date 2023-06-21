@@ -1,6 +1,4 @@
----
-title: "Why Use React Native Instead of Native iOS/Android for Building Your Mobile App in 2023
-"
+title: "Why Use React Native Instead of Native iOS/Android for Building Your Mobile App in 2023"
 subtitle: Wondering if you should use React Native or native iOS/Android for your mobile app development project in 2023? This article makes a quick comparison between the technologies to help you select the best one.
 image: /img/home-jumbotron.jpg
 blurb:
