@@ -13,8 +13,7 @@ intro:
 Native apps, however, are built for specific platforms using different programming languages. This means developers have to build an Android app using Java or Kotlin, and an iOS app using Swift or Objective-C. This is great for building apps intended for a single platform. However, multi-platform applications need separate development teams with expertise in different programming languages.
 A quick look at their features will help us better understand what React Native and Native are and how they function.
 "
-Development time and cost:
-    - image: img/illustrations-coffee.svg
+Development time and cost: - image: img/illustrations-coffee.svg
       text: "Using React Native helps save precious development time and costs. The hot reloading and live reloading features keep the app constantly running, save the state, and automatically reload the app with every code alteration.
 In native app development, separate development teams for Android and iOS make the app development process long and complicated. Code changes and rewrites take significant time during development, making it a costly process."
     heading: "Maintenance and updates"
