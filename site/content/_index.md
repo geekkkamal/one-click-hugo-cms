@@ -11,15 +11,13 @@ intro:
     heading: "React Native and Native – Features and Differences"
     text: "Created by Meta, React Native keeps speed, flexibility, and ease of usage at the forefront. React Native is JavaScript-based and creates stunning and interactive user interfaces with a native feel and experience. The reusable codebase performs across multiple platforms.
 Native apps, however, are built for specific platforms using different programming languages. This means developers have to build an Android app using Java or Kotlin, and an iOS app using Swift or Objective-C. This is great for building apps intended for a single platform. However, multi-platform applications need separate development teams with expertise in different programming languages.
-A quick look at their features will help us better understand what React Native and Native are and how they function.
-"
+A quick look at their features will help us better understand what React Native and Native are and how they function."
 Development time and cost: - image: img/illustrations-coffee.svg
       text: "Using React Native helps save precious development time and costs. The hot reloading and live reloading features keep the app constantly running, save the state, and automatically reload the app with every code alteration.
 In native app development, separate development teams for Android and iOS make the app development process long and complicated. Code changes and rewrites take significant time during development, making it a costly process."
     heading: "Maintenance and updates"
       text: "With React Native apps, you just need to update and resolve bugs on one platform. Strong community support also ensures seamless updates and troubleshooting.
-Two separate native apps require separate updates, maintenance, bug fixes, and maintenance support, which makes the process complex and doubles the cost and work involved. Native apps also need to be updated constantly.
-"
+Two separate native apps require separate updates, maintenance, bug fixes, and maintenance support, which makes the process complex and doubles the cost and work involved. Native apps also need to be updated constantly."
     heading:Maintenance and updates
     text: Using JavaScript – the most commonly used programming language in the world– gives React Native an edge over native apps. It is easy to learn for web developers with good HTML, CSS, and JavaScript knowledge.
 Native programming languages for Android and iOS, such as Kotlin, Java, or Swift, have separate documentation and rules. Developers who can code in these languages are scarce to find and expensive to employ.
