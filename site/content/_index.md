@@ -5,14 +5,12 @@ subtitle: Wondering if you should use React Native or native iOS/Android for you
 image: /img/home-jumbotron.jpg
 blurb:
     text: "With the growing popularity of mobile applications, the need to develop apps that can be built quickly and run on multiple platforms has also increased. The introduction of the React Native UI framework has certainly given traditional native languages a run for their money when it comes to building cross-platform mobile apps.
-React Native has a current market share of 38% and is the second most popular framework for app development. Facebook, Microsoft apps, PlayStation, NFL, Puma, Pinterest, Walmart, and Tesla, among others, have already used React Native to develop stunning apps. This begs the question– should mobile developers use React Native instead of native iOS/Android? This article will try to find the answer to this question through a competitive analysis of these technologies.
-"
+React Native has a current market share of 38% and is the second most popular framework for app development. Facebook, Microsoft apps, PlayStation, NFL, Puma, Pinterest, Walmart, and Tesla, among others, have already used React Native to develop stunning apps. This begs the question– should mobile developers use React Native instead of native iOS/Android? This article will try to find the answer to this question through a competitive analysis of these technologies."
 intro:
     heading: "React Native and Native – Features and Differences"
     text: "Created by Meta, React Native keeps speed, flexibility, and ease of usage at the forefront. React Native is JavaScript-based and creates stunning and interactive user interfaces with a native feel and experience. The reusable codebase performs across multiple platforms.
 Native apps, however, are built for specific platforms using different programming languages. This means developers have to build an Android app using Java or Kotlin, and an iOS app using Swift or Objective-C. This is great for building apps intended for a single platform. However, multi-platform applications need separate development teams with expertise in different programming languages.
 A quick look at their features will help us better understand what React Native and Native are and how they function."
-Development time and cost: - image: img/illustrations-coffee.svg
       text: "Using React Native helps save precious development time and costs. The hot reloading and live reloading features keep the app constantly running, save the state, and automatically reload the app with every code alteration.
 In native app development, separate development teams for Android and iOS make the app development process long and complicated. Code changes and rewrites take significant time during development, making it a costly process."
     heading:Maintenance and updates
